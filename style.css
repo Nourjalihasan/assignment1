@@ -1,0 +1,43 @@
+.div {
+    margin: 20px 40px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #DFE5EA;
+}
+
+.heading {
+    color: #00698f;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+.span-text {
+    font-size: 18px;
+    color: #666;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 1px solid #ccc;
+}
+
+.paragraph.p1 {
+    border: 5px red;
+    border-style: solid dashed;
+    text-align: justify;
+}
+
+.p2 {
+    line-height: 25px;
+    text-align: center;
+    font-style: italic;
+}
+
+.list {
+    list-style-type: circle;
+    font-size: 18px;
+    color: #666;
+}
